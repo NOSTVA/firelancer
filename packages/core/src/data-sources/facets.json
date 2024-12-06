@@ -1,0 +1,1010 @@
+{
+  "facets": [
+    {
+      "code": "__skill_facet__",
+      "name": "Skill"
+    },
+    {
+      "code": "__speciality_facet__",
+      "name": "Speciality"
+    }
+  ],
+  "facetValueCategories": [
+    {
+      "code": "__customer_service__",
+      "name": "Customer Service",
+      "facetCode": "__speciality_facet__"
+    },
+    {
+      "code": "__admin_support__",
+      "name": "Admin Support",
+      "facetCode": "__speciality_facet__"
+    },
+    {
+      "code": "__translation__",
+      "name": "Translation",
+      "facetCode": "__speciality_facet__"
+    },
+    {
+      "code": "__sales_and_marketing__",
+      "name": "Sales & Marketing",
+      "facetCode": "__speciality_facet__"
+    },
+    {
+      "code": "__legal__",
+      "name": "Legal",
+      "facetCode": "__speciality_facet__"
+    },
+    {
+      "code": "__accounting_and_consulting__",
+      "name": "Accounting & Consulting",
+      "facetCode": "__speciality_facet__"
+    },
+    {
+      "code": "__data_science_and_analysis__",
+      "name": "Data Science & Analysis",
+      "facetCode": "__speciality_facet__"
+    },
+    {
+      "code": "__design_and_creative__",
+      "name": "Design & Creative",
+      "facetCode": "__speciality_facet__"
+    },
+    {
+      "code": "__engineering_and_architecture__",
+      "name": "Engineering & Architecture",
+      "facetCode": "__speciality_facet__"
+    },
+    {
+      "code": "__web_mobile_software_dev__",
+      "name": "Web Mobile & Software Development",
+      "facetCode": "__speciality_facet__"
+    },
+    {
+      "code": "__writing__",
+      "name": "Writing",
+      "facetCode": "__speciality_facet__"
+    }
+  ],
+  "facetValues": [
+    {
+      "code": "figma",
+      "name": "Figma",
+      "facetCode": "__skill_facet__"
+    },
+    {
+      "code": "adobe-photoshop",
+      "name": "Adobe Photoshop",
+      "facetCode": "__skill_facet__"
+    },
+    {
+      "code": "chat-gpt",
+      "name": "ChatGPT",
+      "facetCode": "__skill_facet__"
+    },
+    {
+      "code": "wordpress",
+      "name": "Wordpress",
+      "facetCode": "__skill_facet__"
+    },
+    {
+      "code": "front-end-development",
+      "name": "Front-End Development",
+      "facetCode": "__skill_facet__"
+    },
+    {
+      "code": "javascript",
+      "name": "Javascript",
+      "facetCode": "__skill_facet__"
+    },
+    {
+      "code": "tailwind-css",
+      "name": "Tailwind CSS",
+      "facetCode": "__skill_facet__"
+    },
+    {
+      "code": "woo-commerce",
+      "name": "Woo Commerce",
+      "facetCode": "__skill_facet__"
+    },
+    {
+      "code": "nextjs",
+      "name": "Next.Js",
+      "facetCode": "__skill_facet__"
+    },
+    {
+      "code": "typescript",
+      "name": "Typescript",
+      "facetCode": "__skill_facet__"
+    },
+    {
+      "code": "customer-service",
+      "name": "Customer Service",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__customer_service__"
+    },
+    {
+      "code": "technical-support",
+      "name": "Technical Support",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__customer_service__"
+    },
+    {
+      "code": "data-entry",
+      "name": "Data Entry",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__admin_support__"
+    },
+    {
+      "code": "online-research",
+      "name": "Online Research",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__admin_support__"
+    },
+    {
+      "code": "order-processing",
+      "name": "Order Processing",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__admin_support__"
+    },
+    {
+      "code": "project-processing",
+      "name": "Project Processing",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__admin_support__"
+    },
+    {
+      "code": "project-management",
+      "name": "Project Management",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__admin_support__"
+    },
+    {
+      "code": "transcription",
+      "name": "Transcription",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__admin_support__"
+    },
+    {
+      "code": "virtual-assistance",
+      "name": "Virtual Assistance",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__admin_support__"
+    },
+    {
+      "code": "language-localization",
+      "name": "Language Localization",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__translation__"
+    },
+    {
+      "code": "language-tutoring",
+      "name": "Language Tutoring",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__translation__"
+    },
+    {
+      "code": "legal-translation",
+      "name": "Legal Translation",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__translation__"
+    },
+    {
+      "code": "medical-translation",
+      "name": "Medical Translation",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__translation__"
+    },
+    {
+      "code": "technical-translation",
+      "name": "Technical Translation",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__translation__"
+    },
+    {
+      "code": "translation",
+      "name": "Translation",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__translation__"
+    },
+    {
+      "code": "business-development",
+      "name": "Business Development",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__sales_and_marketing__"
+    },
+    {
+      "code": "business-development",
+      "name": "Business Development",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__sales_and_marketing__"
+    },
+    {
+      "code": "campaign-managment",
+      "name": "Campaign Managment",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__sales_and_marketing__"
+    },
+    {
+      "code": "community-managment",
+      "name": "Community Managment",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__sales_and_marketing__"
+    },
+    {
+      "code": "content-strategy",
+      "name": "Content Strategy",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__sales_and_marketing__"
+    },
+    {
+      "code": "digital-marketing",
+      "name": "Digital Marketing",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__sales_and_marketing__"
+    },
+    {
+      "code": "digital-marketing",
+      "name": "Digital Marketing",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__sales_and_marketing__"
+    },
+    {
+      "code": "email-marketing",
+      "name": "Email Marketing",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__sales_and_marketing__"
+    },
+    {
+      "code": "lead-generation",
+      "name": "Lead Generation",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__sales_and_marketing__"
+    },
+    {
+      "code": "marketing-automation",
+      "name": "Marketing Automation",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__sales_and_marketing__"
+    },
+    {
+      "code": "market-strategy",
+      "name": "Market Strategy",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__sales_and_marketing__"
+    },
+    {
+      "code": "market-research",
+      "name": "Market Research",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__sales_and_marketing__"
+    },
+    {
+      "code": "public-relations",
+      "name": "Public Relations",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__sales_and_marketing__"
+    },
+    {
+      "code": "research-engine-marketing",
+      "name": "Research Engine Marketing",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__sales_and_marketing__"
+    },
+    {
+      "code": "business-corporate-law",
+      "name": "Business Corporate Law",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__legal__"
+    },
+    {
+      "code": "general-counsel",
+      "name": "General Counsel",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__legal__"
+    },
+    {
+      "code": "immigration-law",
+      "name": "Immigration Law",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__legal__"
+    },
+    {
+      "code": "intellectual-property-law",
+      "name": "Intellectual Property Law",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__legal__"
+    },
+    {
+      "code": "international-law",
+      "name": "International Law",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__legal__"
+    },
+    {
+      "code": "labor-and-employment-law",
+      "name": "Labor And Employment Law",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__legal__"
+    },
+    {
+      "code": "paralegal",
+      "name": "Paralegal",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__legal__"
+    },
+    {
+      "code": "regulatory-law",
+      "name": "Regulatory Law",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__legal__"
+    },
+    {
+      "code": "tax-law",
+      "name": "Tax Law",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__legal__"
+    },
+    {
+      "code": "securities-and-finance-law",
+      "name": "Securities And Finance Law",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__legal__"
+    },
+    {
+      "code": "accounting",
+      "name": "Accounting",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__accounting_and_consulting__"
+    },
+    {
+      "code": "bookkeeping",
+      "name": "Bookkeeping",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__accounting_and_consulting__"
+    },
+    {
+      "code": "financial-planning",
+      "name": "Financial Planning",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__accounting_and_consulting__"
+    },
+    {
+      "code": "human-resources",
+      "name": "Human Resources",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__accounting_and_consulting__"
+    },
+    {
+      "code": "management-consulting-and-analysis",
+      "name": "Management Consulting And Analysis",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__accounting_and_consulting__"
+    },
+    {
+      "code": "hr-admin",
+      "name": "Hr Admin",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__accounting_and_consulting__"
+    },
+    {
+      "code": "instructional-design",
+      "name": "Instructional Design",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__accounting_and_consulting__"
+    },
+    {
+      "code": "management-consulting",
+      "name": "Management Consulting",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__accounting_and_consulting__"
+    },
+    {
+      "code": "tax-preparation",
+      "name": "Tax Preparation",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__accounting_and_consulting__"
+    },
+    {
+      "code": "training-and-development",
+      "name": "Training And Development",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__accounting_and_consulting__"
+    },
+    {
+      "code": "search-engine-optimization",
+      "name": "Search Engine Optimization",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__accounting_and_consulting__"
+    },
+    {
+      "code": "social-media-marketing",
+      "name": "Social Media Marketing",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__accounting_and_consulting__"
+    },
+    {
+      "code": "social-media-strategy",
+      "name": "Social Media Strategy",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__accounting_and_consulting__"
+    },
+    {
+      "code": "telemarketing",
+      "name": "Telemarketing",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__accounting_and_consulting__"
+    },
+
+    {
+      "code": "a-b-testing",
+      "name": "A/B Testing",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__data_science_and_analysis__"
+    },
+    {
+      "code": "Bandits",
+      "name": "Bandits",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__data_science_and_analysis__"
+    },
+    {
+      "code": "data-analytics",
+      "name": "Data Analytics",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__data_science_and_analysis__"
+    },
+    {
+      "code": "data-engineering",
+      "name": "Data Engineering",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__data_science_and_analysis__"
+    },
+    {
+      "code": "data-extraction",
+      "name": "Data Extraction",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__data_science_and_analysis__"
+    },
+    {
+      "code": "data-mining",
+      "name": "Data Mining",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__data_science_and_analysis__"
+    },
+    {
+      "code": "data-processing",
+      "name": "Data Processing",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__data_science_and_analysis__"
+    },
+    {
+      "code": "data-visualization",
+      "name": "Data Visualization",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__data_science_and_analysis__"
+    },
+    {
+      "code": "deep-learning",
+      "name": "Deep Learning",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__data_science_and_analysis__"
+    },
+    {
+      "code": "experimentation-and-testing",
+      "name": "Experimentation And Testing",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__data_science_and_analysis__"
+    },
+    {
+      "code": "knowledge-representation",
+      "name": "Knowledge Representation",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__data_science_and_analysis__"
+    },
+    {
+      "code": "machine-learning",
+      "name": "Machine Learning",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__data_science_and_analysis__"
+    },
+    {
+      "code": "2d-animation",
+      "name": "2D Animation",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "3d-animation",
+      "name": "3D Animation",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "actor",
+      "name": "Actor",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "art-direction",
+      "name": "Art Direction",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "audio-editing",
+      "name": "Audio Editing",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "audio production",
+      "name": "Audio Production",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "brand-identity-design",
+      "name": "Brand Identity Design",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "brand-strategy",
+      "name": "Brand Strategy",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "cartoonist",
+      "name": "Cartoonist",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "creative-direction",
+      "name": "Creative Direction",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "editorial-design",
+      "name": "Editorial Design",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "exhibit-design",
+      "name": "Exhibit Design",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "fashion-design",
+      "name": "Fashion Design",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "graphic-design",
+      "name": "Graphic Design",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "illustration",
+      "name": "Illustration",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "image-editing",
+      "name": "Image Editing",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "motion-graphics-design",
+      "name": "Motion Graphics Design",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "musician",
+      "name": "Musician",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "music-composition",
+      "name": "Music Composition",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "music-production",
+      "name": "Music Production",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "photography",
+      "name": "Photography",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "presentation-design",
+      "name": "Presentation Design",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "scriptwriting",
+      "name": "Scriptwriting",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "store-design",
+      "name": "Store Design",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "videographer",
+      "name": "Videographer",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "video-editing",
+      "name": "Video Editing",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "video-production",
+      "name": "Video Production",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "vocalist",
+      "name": "Vocalist",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "voice-talent",
+      "name": "Voice Talent",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "vr-ar-design",
+      "name": "Vr/Ar Design",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__design_and_creative__"
+    },
+    {
+      "code": "3d-modeling",
+      "name": "3D Modeling",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__engineering_and_architecture__"
+    },
+    {
+      "code": "2d-modeling",
+      "name": "2D Modeling",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__engineering_and_architecture__"
+    },
+    {
+      "code": "architecture",
+      "name": "Architecture",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__engineering_and_architecture__"
+    },
+    {
+      "code": "bim-modeling",
+      "name": "Bim Modeling",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__engineering_and_architecture__"
+    },
+    {
+      "code": "biology",
+      "name": "Biology",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__engineering_and_architecture__"
+    },
+    {
+      "code": "cad",
+      "name": "CAD",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__engineering_and_architecture__"
+    },
+    {
+      "code": "chemical-engineering",
+      "name": "Chemical Engineering",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__engineering_and_architecture__"
+    },
+    {
+      "code": "chemistry",
+      "name": "Chemistry",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__engineering_and_architecture__"
+    },
+    {
+      "code": "civil-engineering",
+      "name": "Civil Engineering",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__engineering_and_architecture__"
+    },
+    {
+      "code": "electrical-engineering",
+      "name": "Electrical Engineering",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__engineering_and_architecture__"
+    },
+    {
+      "code": "electronic-engineering",
+      "name": "Electronic Engineering",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__engineering_and_architecture__"
+    },
+    {
+      "code": "energy-management-and-modeling",
+      "name": "Energy Management And Modeling",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__engineering_and_architecture__"
+    },
+    {
+      "code": "engineering-tutoring",
+      "name": "Engineering Tutoring",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__engineering_and_architecture__"
+    },
+    {
+      "code": "jewelry-design",
+      "name": "Jewelry Design",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__engineering_and_architecture__"
+    },
+    {
+      "code": "landscape-design",
+      "name": "Landscape Design",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__engineering_and_architecture__"
+    },
+    {
+      "code": "oil-gas-engineering",
+      "name": "Oil Gas Engineering",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__engineering_and_architecture__"
+    },
+    {
+      "code": "process-engineering",
+      "name": "Process Engineering",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__engineering_and_architecture__"
+    },
+    {
+      "code": "quantity-surveying",
+      "name": "Quantity Surveying",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__engineering_and_architecture__"
+    },
+    {
+      "code": "structural-engineering",
+      "name": "Structural Engineering",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__engineering_and_architecture__"
+    },
+    {
+      "code": "ar-vr-development",
+      "name": "Ar Vr Development",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__web_mobile_software_dev__"
+    },
+    {
+      "code": "front-end-development",
+      "name": "Front End Development",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__web_mobile_software_dev__"
+    },
+    {
+      "code": "back-end-development",
+      "name": "Back End Development",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__web_mobile_software_dev__"
+    },
+    {
+      "code": "database-development",
+      "name": "Database Development",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__web_mobile_software_dev__"
+    },
+    {
+      "code": "automation-qa",
+      "name": "Automation Qa",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__web_mobile_software_dev__"
+    },
+    {
+      "code": "cms-customization",
+      "name": "Cms Customization",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__web_mobile_software_dev__"
+    },
+    {
+      "code": "cms-development",
+      "name": "Cms Development",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__web_mobile_software_dev__"
+    },
+    {
+      "code": "desktop-software-development",
+      "name": "Desktop Software Development",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__web_mobile_software_dev__"
+    },
+    {
+      "code": "ecommerce-development",
+      "name": "Ecommerce Development",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__web_mobile_software_dev__"
+    },
+    {
+      "code": "emerging-tech",
+      "name": "Emerging Tech",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__web_mobile_software_dev__"
+    },
+    {
+      "code": "frimware-development",
+      "name": "Frimware Development",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__web_mobile_software_dev__"
+    },
+    {
+      "code": "full-stack-development",
+      "name": "Full Stack Development",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__web_mobile_software_dev__"
+    },
+    {
+      "code": "functional-qa",
+      "name": "Functional Qa",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__web_mobile_software_dev__"
+    },
+    {
+      "code": "game-development",
+      "name": "Game Development",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__web_mobile_software_dev__"
+    },
+    {
+      "code": "mobile-app-development",
+      "name": "Mobile App Development",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__web_mobile_software_dev__"
+    },
+    {
+      "code": "mobile-design",
+      "name": "Mobile Design",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__web_mobile_software_dev__"
+    },
+    {
+      "code": "mobile-game-development",
+      "name": "Mobile Game Development",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__web_mobile_software_dev__"
+    },
+    {
+      "code": "product-management",
+      "name": "Product Management",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__web_mobile_software_dev__"
+    },
+    {
+      "code": "prototyping",
+      "name": "Prototyping",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__web_mobile_software_dev__"
+    },
+    {
+      "code": "scripting-and-automation",
+      "name": "Scripting And Automation",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__web_mobile_software_dev__"
+    },
+    {
+      "code": "scrum-master",
+      "name": "Scrum Master",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__web_mobile_software_dev__"
+    },
+    {
+      "code": "user-research",
+      "name": "User Research",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__web_mobile_software_dev__"
+    },
+    {
+      "code": "ux-ui-design",
+      "name": "Ux Ui Design",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__web_mobile_software_dev__"
+    },
+    {
+      "code": "web-design",
+      "name": "Web Design",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__web_mobile_software_dev__"
+    },
+    {
+      "code": "business-writing",
+      "name": "Business Writing",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__writing__"
+    },
+    {
+      "code": "career-coaching",
+      "name": "Career Coaching",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__writing__"
+    },
+    {
+      "code": "content-writing",
+      "name": "Content Writing",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__writing__"
+    },
+    {
+      "code": "copywriting",
+      "name": "Copywriting",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__writing__"
+    },
+    {
+      "code": "creative-writing",
+      "name": "Creative Writing",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__writing__"
+    },
+    {
+      "code": "editing-proofreading",
+      "name": "Editing Proofreading",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__writing__"
+    },
+    {
+      "code": "ghostwriting",
+      "name": "Ghostwriting",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__writing__"
+    },
+    {
+      "code": "technical-writing",
+      "name": "Technical Writing",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__writing__"
+    },
+    {
+      "code": "writing-tutoing",
+      "name": "Writing Tutoing",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__writing__"
+    },
+    {
+      "code": "grant-writing",
+      "name": "Grant Writing",
+      "facetCode": "__speciality_facet__",
+      "facetValueCategoryCode": "__writing__"
+    }
+  ]
+}
